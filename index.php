@@ -13,6 +13,7 @@
         <input type="submit" value="login" name="submit">
     </form>
 
+
     <title>Ini Halaman Home</title>
 </head>
 <body>
@@ -22,5 +23,6 @@
         <input type="password" name="password" id="password" placeholder="password"/>
         <button type="submit">Login</button>
     </form>
+
 </body>
 </html>
