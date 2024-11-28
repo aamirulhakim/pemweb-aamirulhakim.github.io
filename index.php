@@ -13,5 +13,14 @@
         <input type="submit" value="login" name="submit">
     </form>
 
+    <title>Ini Halaman Home</title>
+</head>
+<body>
+    <h1>Ini Halaman Login</h1>
+    <form action="backend/login.php" method="POST">
+        <input type="email" name="email" id="email" placeholder="Email"/>
+        <input type="password" name="password" id="password" placeholder="password"/>
+        <button type="submit">Login</button>
+    </form>
 </body>
 </html>
